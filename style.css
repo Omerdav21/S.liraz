@@ -171,7 +171,7 @@
 
   #connect-footer{
    position: absolute;
-   bottom: 0;
+   margin-top: auto;
   }
 
   .text-center_h2 {
